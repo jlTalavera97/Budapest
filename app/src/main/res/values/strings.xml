@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Budapest</string>
+    <string name="inicio">Inicio</string>
+    <string name="lugares">Lugares</string>
+    <string name="detalle">Detalle</string>
+    <string name="descubre">Descubre Budapest!</string>
+    <string name="restaurantes">Restaurantes</string>
+    <string name="actividades">Actividades</string>
+    <string name="monumentos">Monumentos</string>
+
+
+    <string name="beerstro14">Beerstro 14</string>
+    <string name="hoppa_bistro">Hoppa Bistro</string>
+    <string name="byblos">Byblos</string>
+    <string name="lucky_7_burgers">Lucky 7 Burgers</string>
+
+
+    <string name="paseo_barco">Paseo en barco al anochecer</string>
+    <string name="visita_guiada">Visita guiada por el Parlamento de Budapest</string>
+    <string name="free_tour">Free tour por Budapest</string>
+    <string name="entrada_balneario">Entrada al Balneario Széchenyi</string>
+
+
+    <string name="parlamento">Parlamento de Budapest</string>
+    <string name="puente_cadenas">Puente de las Cadenas</string>
+    <string name="mercado_central">Mercado Central</string>
+    <string name="basilica">Basílica de San Esteban</string>
+
+
+</resources>
